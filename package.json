@@ -1,6 +1,6 @@
 {
-  "name": "markov-maron-ipsum",
-  "version": "1.1.0",
+  "name": "jimcarry-ipsum",
+  "version": "1.1.1",
   "description": "Npm package to produce lines of lorem ipsum from a Jim Carry commencement speech he made, which has been fed into a markov chain generator",
   "main": "cli.js",
   "scripts": {
