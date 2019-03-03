@@ -1,0 +1,14 @@
+{
+  "name": "markov-maron-ipsum",
+  "version": "1.0.0",
+  "description": "Npm package to produce lines of lorem ipsum from Mark Maron quotes fed into a markov chain generator",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zachary Droge",
+  "license": "MIT",
+  "bin": {
+    "ramble": "./cli.js"
+  }
+}
